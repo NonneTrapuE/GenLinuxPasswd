@@ -17,3 +17,8 @@ tape your password here
 $> su nonnetrapue
 Password:
 ```
+
+
+
+
+référence: (https://www.cyberciti.biz/faq/understanding-etcshadow-file/)
